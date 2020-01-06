@@ -1,0 +1,6 @@
+{
+  "CONTACT_POINT": "localhost",
+  "PORT": 9042,
+  "KEYSPACE": "temperature",
+  "TABLE": "data"
+}
